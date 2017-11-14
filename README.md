@@ -1,2 +1,2 @@
 # git-project
-this is my first git teting
+this is my first git testing..
